@@ -2,6 +2,8 @@
 
 delay chunks through a stream.
 
+see also [slow-stream](https://github.com/rvagg/node-slow-stream)
+
 ## Example
 
 delay chunks by 100 ms
