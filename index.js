@@ -1,4 +1,4 @@
-
+var through = require('through')
 
 module.exports = function (delay) {
 
